@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hermannleboss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning laravel and react native
+- 👀 I am interested in php frameworks such as Symfony and Laravel and wordpress CMS
+- 🌱 I’m currently learning laravel vue and react native
 - 💞️ I’m looking to collaborate on web and mobile app developpement project
 - 📫 How to reach me : tel and whatsapp 00228 98 17 95 00, email: hermannleboss@gmail.com
