@@ -1,9 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Hermann EHO and I'm a Full Stack Developer who
-    loves to work with JavaScript and PHP technologies. Right now my mind is focused on
-    learning everything that is related to Web Development. I'm also passionate about exploring new       technologies which I can leverage to solve real-life problems.
+    My name is Hermann EHO and I am a Full Stack Developer who enjoys working with JavaScript and PHP technologies. Right now my mind is focused on frontend frameworks mainly React and some VueJs. I'm also passionate about exploring new technologies and patterns that I can leverage to solve real-world problems.
 </div>
 
 
