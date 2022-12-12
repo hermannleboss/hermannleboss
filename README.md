@@ -216,4 +216,8 @@
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=hermannleboss&&theme=react&&hide_border=true"
 />
+
+
+# 📈 Award
  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hermannleboss)](https://github.com/ryo-ma/github-profile-trophy)
