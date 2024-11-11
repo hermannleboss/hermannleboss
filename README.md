@@ -120,3 +120,7 @@
 # 📈 Award
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=hermannleboss)](https://github.com/ryo-ma/github-profile-trophy)
+
+ # Commiter rank
+
+ [![committers.top badge](https://user-badge.committers.top/togo/hermannleboss.svg)](https://user-badge.committers.top/togo/hermannleboss)
