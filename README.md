@@ -4,6 +4,8 @@
     My name is Hermann EHO and I am a Full Stack Web3 Developer who enjoys working with JavaScript and WEB 3 technologies. Right now my mind is focused on VueJs, and Web3 ecosystem. I'm also passionate about exploring new technologies and patterns that I can leverage to solve real-world problems.
 </div>
 
+# Dev Card
+<a href="https://app.daily.dev/hermanneho"><img src="https://api.daily.dev/devcards/v2/rS9tZ65dDegRSoVL6xZez.png?type=default&r=kw9" width="356" alt="Hermann EHO's Dev Card"/></a>
 
 # 🔧 Technologies & Tools
 
